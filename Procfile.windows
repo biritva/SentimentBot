@@ -1,1 +1,1 @@
-web: python SentimentBot.py
+bot: python SentimentBot.py
